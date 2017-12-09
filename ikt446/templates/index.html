@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tycho Database</title>
+</head>
+
+<body>
+<h3> Create query</h3>
+<label>
+    <form action="/result" method="post">
+        <select id="diseases" name="diseases">
+            <option value="all">All</option>
+            {% for item in diseases %}
+            <option value="{{ item }}"> {{ item }} </option>
+            {% endfor %}
+        </select>
+
+        <select id="states" name="states">
+            <option value="all">All</option>
+            {% for item in states %}
+            <option value="{{ item }}"> {{ item }} </option>
+            {% endfor %}
+        </select>
+        <select id="years" name="years">
+            <option value="all">All</option>
+            {% for i in range(1900, 2015) %}
+            <option value="{{i}}"> {{i}} </option>
+            {% endfor %}
+        </select>
+
+        <select id="weeks" name="weeks">
+            <option value="all">All</option>
+            {% for i in range(1,53)  %}
+            <option value="{{i}}"> {{i}} </option>
+            {% endfor %}
+        </select>
+
+
+        <input type="submit">
+    </form>
+
+
+</label>
+
+</body>
+
+</html>

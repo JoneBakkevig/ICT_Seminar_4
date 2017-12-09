@@ -1,0 +1,50 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Result</title>
+
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.29.0/js/jquery.tablesorter.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.29.0/js/jquery.tablesorter.widgets.js"></script>
+    <script>
+    $(document).ready(function()
+    {
+        $("#result_table").tablesorter({widgets: ['zebra']});
+    });
+    </script>
+    <link href="http://mottie.github.io/tablesorter/css/theme.default.css" rel="stylesheet">
+</head>
+<h3> Query Result </h3>
+<body>
+    <table id="result_table" class="tablesorter" border="0" cellpadding="5" cellspacing="1">
+    <thead>
+        {% if output %}
+        <tr>
+            <th>State</th>
+            <th>Cases</th>
+            <th>Year</th>
+            <th>Week</th>
+        </tr>
+        {% endif %}
+    </thead>
+    <tbody>
+        {% if not output %}
+        <h3> No result </h3>
+        {% endif %}
+        {% for item in output %}
+        <tr>
+            <td>{{ item.loc }}</td>
+            <td>{{ item.number }}</td>
+            <td>{{ item.year }}</td>
+            <td>{{ item.week }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+    </table>
+
+</body>
+</html>

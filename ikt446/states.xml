@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<count>59</count>
+<row>
+	<loc>ALASKA</loc>
+	<state>AK</state>
+</row>
+<row>
+	<loc>ALABAMA</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>ARKANSAS</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>AMERICAN SAMOA</loc>
+	<state>AS</state>
+</row>
+<row>
+	<loc>ARIZONA</loc>
+	<state>AZ</state>
+</row>
+<row>
+	<loc>CALIFORNIA</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>COLORADO</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>CONNECTICUT</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>DISTRICT OF COLUMBIA</loc>
+	<state>DC</state>
+</row>
+<row>
+	<loc>DELAWARE</loc>
+	<state>DE</state>
+</row>
+<row>
+	<loc>FLORIDA</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>GEORGIA</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>GUAM</loc>
+	<state>GU</state>
+</row>
+<row>
+	<loc>HAWAII</loc>
+	<state>HI</state>
+</row>
+<row>
+	<loc>IOWA</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>IDAHO</loc>
+	<state>ID</state>
+</row>
+<row>
+	<loc>ILLINOIS</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>INDIANA</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>KANSAS</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>KENTUCKY</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>LOUISIANA</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>MASSACHUSETTS</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>MARYLAND</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>MAINE</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>MICHIGAN</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>MINNESOTA</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>MISSOURI</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>NORTHERN MARIANA ISLANDS</loc>
+	<state>MP</state>
+</row>
+<row>
+	<loc>MISSISSIPPI</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>MONTANA</loc>
+	<state>MT</state>
+</row>
+<row>
+	<loc>NORTH CAROLINA</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>NORTH DAKOTA</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>NEBRASKA</loc>
+	<state>NE</state>
+</row>
+<row>
+	<loc>NEW HAMPSHIRE</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>NEW JERSEY</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>NEW MEXICO</loc>
+	<state>NM</state>
+</row>
+<row>
+	<loc>NEVADA</loc>
+	<state>NV</state>
+</row>
+<row>
+	<loc>NEW YORK</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>NEW YORK CITY</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>UPSTATE NEW YORK</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>OHIO</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>OKLAHOMA</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>OREGON</loc>
+	<state>OR</state>
+</row>
+<row>
+	<loc>PENNSYLVANIA</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>PUERTO RICO</loc>
+	<state>PR</state>
+</row>
+<row>
+	<loc>PAC TRUST TERR</loc>
+	<state>PT</state>
+</row>
+<row>
+	<loc>RHODE ISLAND</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>SOUTH CAROLINA</loc>
+	<state>SC</state>
+</row>
+<row>
+	<loc>SOUTH DAKOTA</loc>
+	<state>SD</state>
+</row>
+<row>
+	<loc>TENNESSEE</loc>
+	<state>TN</state>
+</row>
+<row>
+	<loc>TEXAS</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>UTAH</loc>
+	<state>UT</state>
+</row>
+<row>
+	<loc>VIRGINIA</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>VIRGIN ISLANDS</loc>
+	<state>VI</state>
+</row>
+<row>
+	<loc>VERMONT</loc>
+	<state>VT</state>
+</row>
+<row>
+	<loc>WASHINGTON</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>WISCONSIN</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>WEST VIRGINIA</loc>
+	<state>WV</state>
+</row>
+<row>
+	<loc>WYOMING</loc>
+	<state>WY</state>
+</row>
+</result>

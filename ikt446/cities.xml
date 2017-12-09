@@ -1,0 +1,5140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<count>1284</count>
+<row>
+	<loc>KETCHIKAN</loc>
+	<state>AK</state>
+</row>
+<row>
+	<loc>ALAMEDA</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>ANNISTON</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>BERKLEY</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>BESSEMER</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>BIRMINGHAM</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>DOTHAN</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>FLORENCE</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>GADSDEN</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>MOBILE</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>MONTGOMERY</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>NORTHPORT</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>SELMA</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>TUCSON</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>TUSCALOOSA</loc>
+	<state>AL</state>
+</row>
+<row>
+	<loc>ARGENTA</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>BERKELEY</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>COFFEYVILLE</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>FORT SMITH</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>HELENA</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>HOLONA</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>HOT SPRINGS</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>KANSAS CITY</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>LITTLE ROCK</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>NORTH LITTLE ROCK</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>OAKLAND</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>PINE BLUFF</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>RIVERSIDE</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>ROCK</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>TOPEKA</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>WICHITA</loc>
+	<state>AR</state>
+</row>
+<row>
+	<loc>FLAGSTAFF</loc>
+	<state>AZ</state>
+</row>
+<row>
+	<loc>LITTLE ROCK</loc>
+	<state>AZ</state>
+</row>
+<row>
+	<loc>NOGALES</loc>
+	<state>AZ</state>
+</row>
+<row>
+	<loc>PHOENIX</loc>
+	<state>AZ</state>
+</row>
+<row>
+	<loc>PRESCOTT</loc>
+	<state>AZ</state>
+</row>
+<row>
+	<loc>TUCSON</loc>
+	<state>AZ</state>
+</row>
+<row>
+	<loc>TUSCAN</loc>
+	<state>AZ</state>
+</row>
+<row>
+	<loc>TUSCEN</loc>
+	<state>AZ</state>
+</row>
+<row>
+	<loc>ALAMEDA</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>BAKERSFIELD</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>BERKELEY</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>COLUMBUS</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>DENVER</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>EUREKA</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>FRESNO</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>GLENDALE</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>LEWISTON</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>LONG BEACH</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>LOS ANGELES</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>MEMENTO</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>OAKLAND</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>PALO ALTO</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>PASADENA</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>POMONA</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>PORTLAND</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>REDLANDS</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>RICHMOND</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>RIVERSIDE</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>ROSEVILLE</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>SACRAMENTO</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>SAN BERNARDINO</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>SAN DIEGO</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>SAN FRANCISCO</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>SAN JOSE</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>SANTA ANA</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>SANTA BARBARA</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>SANTA CRUZ</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>SAULT STE MARIC</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>SOUTH PASADENA</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>STOCK</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>STOCKTON</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>VALLEJO</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>VENICE</loc>
+	<state>CA</state>
+</row>
+<row>
+	<loc>BOULDER</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>BRIDGEPORT</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>CLEVELAND</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>COLORADO SPRINGS</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>DENVER</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>FORT COLLINS</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>FOUNTAIN</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>FRUITA DISTRICT</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>GREELEY</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>LOS ANGELES</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>PUEBLO</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>ROCKY FORD</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>SAN DIEGO</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>TRINIDAD</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>WEST TAMPA HILLSBORO</loc>
+	<state>CO</state>
+</row>
+<row>
+	<loc>ANSONIA</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>BRIDGEPORT</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>BRISTOL</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>DANBURY</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>DANBURY TOWN</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>DERBY</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>ENFIELD</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>FAIRFIELD</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>FAIRFIELD TOWN</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>GREENWICH</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>GREENWICH TOWN</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>HARTFORD</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>HARTSFIELD</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>HOBOKEN</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>LONDON</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>MANCHESTER</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>MANCHESTER TOWN</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>MERIDEN</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>MIDDLETOWN</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>MILFORD</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>MILFORD TOWN</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>NAUGATUCK</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>NEW BRITAIN</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>NEW HAVEN</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>NEW LONDON</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>NEW ORLEANS</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>NORWALK</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>NORWICH</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>ORANGE</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>PUTNAM</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>STAMFORD</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>STONINGTON</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>WALLINGFORD</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>WATERBURY</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>WILLIMANTIC</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>WINDHAM</loc>
+	<state>CT</state>
+</row>
+<row>
+	<loc>SIOUX FALLS S</loc>
+	<state>DC</state>
+</row>
+<row>
+	<loc>WASHINGTON</loc>
+	<state>DC</state>
+</row>
+<row>
+	<loc>CHILLICOTHE</loc>
+	<state>DE</state>
+</row>
+<row>
+	<loc>DAYTON</loc>
+	<state>DE</state>
+</row>
+<row>
+	<loc>WILLIAMINGTON</loc>
+	<state>DE</state>
+</row>
+<row>
+	<loc>WILMINGTON</loc>
+	<state>DE</state>
+</row>
+<row>
+	<loc>BEDFORD</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>CLAY</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>DE FUNIAK SPRINGS</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>DE SOTO</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>DUVAL</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>JACKSON</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>JACKSONVILLE</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>KEY WEST</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>LEON</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>MANDARIN</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>MARIANNA</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>MIAMI</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>PENSACOLA</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>POLK</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>PUTNAM</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>SANTA ROSA</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>SARASOTA</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>ST PETERSBURG</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>TAMPA</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>TAMPA CITY</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>TARPON SPRINGS</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>WEST TAMPA</loc>
+	<state>FL</state>
+</row>
+<row>
+	<loc>ALBANY</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>ATHENS</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>ATLANTA</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>AUGUSTA</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>AURORA</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>BIRMINGHAM</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>BRUNSWICK</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>CLEVELAND</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>COLUMBUS</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>LA GRANGE</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>MACON</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>ROME</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>SAVANNAH</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>VALDOSTA</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>WAYCROSS</loc>
+	<state>GA</state>
+</row>
+<row>
+	<loc>HILO</loc>
+	<state>HI</state>
+</row>
+<row>
+	<loc>HONOLULU</loc>
+	<state>HI</state>
+</row>
+<row>
+	<loc>BATON ROUGE</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>BOONE</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>BURLINGTON</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>CEDAR RAPIDS</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>CLINTON</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>COFFEYVILLE</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>COUNCIL BLUFFS</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>DAVENPORT</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>DES MOINES</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>DUBUQUE</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>FORT DODGE</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>FORT SCOTT</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>IOWA CITY</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>KEOKUK</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>MARSHALLTOWN</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>MASON CITY</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>MUNCIE</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>MUSCATINE</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>NEW ORLEANS</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>OTTUMWA</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>PERTH AMBOY</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>PHILADELPHIA</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>PITTSBURGH</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>SIOUX CITY</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>SIOUX FALLS</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>WATERLOO</loc>
+	<state>IA</state>
+</row>
+<row>
+	<loc>BOISE</loc>
+	<state>ID</state>
+</row>
+<row>
+	<loc>POCATELLO</loc>
+	<state>ID</state>
+</row>
+<row>
+	<loc>ALTON</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>AURORA</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>BELLEVILLE</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>BERLIN N</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>BERWYN</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>BLOOMINGTON</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>BLUE ISLAND</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>CAIRO</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>CANTON</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>CENTRALIA</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>CHAMPAIGN</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>CHICAGO</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>CHICAGO HEIGHTS</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>CICERO</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>CIFFCAGO</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>CLEVELAND</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>DANVILLE</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>DECATUR</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>DUBUQUE</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>EAST CHICAGO</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>EAST ST LOUIS</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>ELGIN</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>ELKHART</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>EVANSTON</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>EVANSVILLE</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>FAIRPORT</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>FOREST PARK</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>FREEPORT</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>GALESBURG</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>GRANITE CITY</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>HERRIN</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>HUNTINGTON</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>JACKSONVILLE</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>JOLIET</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>KANKAKEE</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>KAULALEE</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>KEWANEE</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>LA SALLE</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>MANCHESTER N</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>MATTOON</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>MEDFORD</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>MOLINE</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>MONMOUTH</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>MOUNT VERNON</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>MURPHYSBORO</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>OAK PARK</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>PEKIN</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>PEORIA</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>PORTSMOUTH N</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>QUINCY</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>ROANOKE</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>ROCK ISLAND</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>ROCKFORD</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>ROCKLAND</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>SOUTH BEND</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>SPOKANE</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>SPRINGFIELD</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>STERLING</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>STREATOR</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>UNLEAR</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>URBANA</loc>
+	<state>IL</state>
+</row>
+<row>
+	<loc>ANDERSON</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>BEDFORD</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>BLOOMFIELD</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>BLOOMINGTON</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>BOSTON</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>BRAZIL</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>BURLINGTON</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>CLINTON</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>COLUMBUS</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>CRAWFORDSVILLE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>DES MOINES</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>E VANS VINE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>EAST CHICAGO</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>ELKHART</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>ELWOOD</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>EVANSVILLE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>FORT WAYNE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>FRANKFORT</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>GARY</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>GRAND RAPIDS</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>HAMMOND</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>HARRISBURG</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>HOUSVILLE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>HUNTINGTON</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>INDIANAPOLIS</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>KEOKUK</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>KOKOMO</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>LA FAYETTE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>LAFAYETTE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>LAPORTE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>LOGANSPORT</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>MARION</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>MICHIGAN</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>MICHIGAN CITY</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>MISHAWAKA</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>MONTICELLO</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>MUNCIE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>MUSCATINE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>NEW ALBANY</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>NEW CASTLE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>NEWCASTLE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>PERU</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>RICHMOND</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>ROCHESTER</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>SHELBYVILLE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>SOUTH BEND</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>SOUTH BETHLEHEM</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>ST JOSEPH</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>TELL CITY</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>TERRE HAUTE</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>VINCENNCS</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>VINCENNES</loc>
+	<state>IN</state>
+</row>
+<row>
+	<loc>ABILENE</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>ARKANSAS CITY</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>ATCHISON</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>CARNEGIE</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>CHANUTE</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>COFFEYVILLE</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>COLORADO SPRINGS</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>COLUMBUS</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>EMPORIA</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>FORT SCOTT</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>GALENA</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>HUTCHINSON</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>INDEPENDENCE</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>IOLA</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>KANSAS CITY</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>LAWRENCE</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>LEAVENWORTH</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>LOUISVILLE</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>LOWELL</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>NEWTON</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>OWENSBORO</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>PADUCAH</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>PARSONS</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>PEORIA</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>PITTSBURG</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>SALINA</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>ST MARYS</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>STALES</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>TOPEKA</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>WELLINGTON</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>WICHITA</loc>
+	<state>KS</state>
+</row>
+<row>
+	<loc>ASHLAND</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>BATON ROUGE</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>COVINGTON</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>FRANKFORT</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>HARTFORD</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>HENDERSON</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>HOPKINSVILLE</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>LEAVENWORTH</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>LEXINGTON</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>LIVINGTON</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>LOKINGTEN</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>LOS ANGELES</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>LOUISVILLE</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>LYNCHBURG</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>NEW ORLEANS</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>NEWPORT</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>NORFOLK</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>OWENSBORO</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>PADUCAH</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>SANDY BAY</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>SPRINGFIELD</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>ST DAVID</loc>
+	<state>KY</state>
+</row>
+<row>
+	<loc>ALEXANDRIA</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>AVOYELLES</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>BALTIMORE</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>BATON ROUGE</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>BIDDEFORD</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>CADDO</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>CALCASIEN</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>CAPE GIRARDEAU</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>DA</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>DE SOTA</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>DE SOTO</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>EAST CARROLL</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>EAST CARROLL PARISH</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>IBERIA</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>IBERVILLE</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>LAFAYETTE</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>LAKE CHARLES</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>LINCOLN</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>MONROE</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>NEW ORLEANS</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>PHILADELPHIA</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>PLAQUEMINE</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>POINT COOPER</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>RAPIDES</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>READING</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>RICHLAND</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>SHREVEPORT</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>ST JAMES</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>ST TAMMANY</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>TANGIPAHOA</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>VERMILLION</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>WACO</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>WEBSTER</loc>
+	<state>LA</state>
+</row>
+<row>
+	<loc>ADAMS</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>AMESBURY</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>ANDOVER</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>ARLINGTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>ATTLEBORO</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>BEAVER FALLS</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>BELMONT</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>BEVERLY</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>BLACKSTONE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>BOSTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>BRADDOCK</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>BRAINTREE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>BROCKTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>BROOKLINE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>BUTLER</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>CAMBRIDGE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>CANTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>CHELSEA</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>CHICAGO</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>CHICOPEE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>CLINTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>DANVERS</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>DEDHAM</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>EAST WEYMOUTH</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>EASTHAMPTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>EVERETT</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>FALL RIVER</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>FITCHBURG</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>FLINT</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>FRAMINGHAM</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>FRAMINGTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>GALVESTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>GARDNER</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>GARFIELD</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>GLOUCESTER</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>GREENFIELD</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>HAVERHILL</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>HOLLAND</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>HOLYOKE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>HYDE PARK</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>LAWRENCE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>LEOMINSTER</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>LEXINGTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>LOS ANGELES</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>LOWELL</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>LYNN</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>MALDEN</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>MARLBORO</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>MARLBOROUGH</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>MEDFORD</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>MELROSE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>METHUEN</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>MILFORD</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>MILWAUKEE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>MINNEAPOLIS</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>MOBILE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>NATICK</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>NEW BEDFORD</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>NEW BURYPON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>NEWBURYPORT</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>NEWPORT</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>NEWTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>NORTH ADAMS</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>NORTH ATTLEBORO</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>NORTH WEYMOUTH</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>NORTHAMPTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>NORTHBRIDGE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>NORTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>NORWOOD</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>PALMER</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>PEABODY</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>PITTSFIELD</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>PLAINFIELD</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>PLYMOUTH</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>QUINCY</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>REVERE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>SAGINAW</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>SALEM</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>SAUGUS</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>SOMERVILLE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>SOUTH BETHLEHEM</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>SOUTHBRIDGE</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>SPRINGFIELD</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>SPRINGFIELD ASS</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>TAUNTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>UNCLEA</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>UTICA</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>VINEYARD HAVEN</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WAKEFIELD</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WALTHAM</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WATERTOWN</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WEBSTER</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WEST CHESTER</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WEST HOBOKEN</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WEST NEWTON</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WEST SPRINGFIELD</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WESTFIELD</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WEYMOUTH</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WINCHESTER</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WINTHROP</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WOBURN</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>WORCESTER</loc>
+	<state>MA</state>
+</row>
+<row>
+	<loc>BALTIMORE</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>CAMBRIDGE</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>CULANDER</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>CUMBERLAND</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>FREDERICK</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>HAGERSTOWN</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>LAWRENCE</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>MALDEN</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>MARLBORO</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>METHUEN</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>NORTH ATTLEBORO</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>SPRINGFIELD</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>ST LOUIS</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>WASHINGTON COUNTY</loc>
+	<state>MD</state>
+</row>
+<row>
+	<loc>AUBURN</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>AUGUSTA</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>BANGOR</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>BATH</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>BIDDEFORD</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>CUMBERLAND</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>GARDINER</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>HOULTON</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>LEWISTON</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>MADAWASKA REGION</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>MAPLETON</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>PORTLAND</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>ROCKLAND</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>SANFORD</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>ST DAVID</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>ST JOSEPH</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>ST LOUIS</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>WATERVILLE</loc>
+	<state>ME</state>
+</row>
+<row>
+	<loc>ADRIAN</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>ALPENA</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>ANN ARBOR</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>BATTLE CREEK</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>BAY CITY</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>BEAVER FALLS</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>BENTON HARBOR</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>CADILLAC</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>DAYTON</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>DETROIT</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>EAST SAGINAW</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>ESCANABA</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>FARIBAULT</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>FLINT</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>GRAND HAVEN</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>GRAND RAPIDS</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>HAMTRAMCK</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>HANCOCK</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>HAVERHILL</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>HIGHLAND</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>HIGHLAND PARK</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>HOLLAND</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>IRON MOUNTAIN</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>IRONTON</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>IRONWOOD</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>ISHPEMING</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>JACKSON</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>KALAMAZOO</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>KANSAS CITY</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>LANSING</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>LUDINGTON</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>MANISTEE</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>MARQUETTE</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>MCKEESPORT</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>MENOMINEE</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>MISHAWAKA</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>MUNCIE</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>MUSKEGON</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>OSEOLA</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>PONTIAC</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>PORT HURON</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>ROCHESTER</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>SAGINAW</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>SALUTE STE MARIE</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>SAULT STC  MARIC</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>SAULT STE MARIE</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>SOUTH BEND</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>SOUTH RANGE</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>TERRE HAUTE</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>TRAVERSE CITY</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>VINEYARD HAVEN</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>WEST BAY CITY</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>WEST CITY</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>WINONA</loc>
+	<state>MI</state>
+</row>
+<row>
+	<loc>AUSTIN</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>BRAINERD</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>DETROIT</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>DOUGLAS</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>DULUTH</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>FARIBAULT</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>HIBBING</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>KANSAS CITY</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>MANKATO</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>MINNEAPOLIS</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>NEW ORLEANS</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>RED WING</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>REDWING</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>ROCHESTER</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>ST CLOUD</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>ST LOUIS</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>ST PAUL</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>STILLWATER</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>VIRGINIA</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>WINONA</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>WINSTON-SALEM</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>WORCESTER</loc>
+	<state>MN</state>
+</row>
+<row>
+	<loc>CAPE GIRARDEAU</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>CARTHAGE</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>CITY</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>COLUMBIA</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>EAST ST LOUIS</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>GREAT FALLS</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>HANNIBAL</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>INDEPENDENCE</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>JEFFERSON CITY</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>JOPLIN</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>KAHOKA</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>KANSAS CITY</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>KNASA CITY</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>MISSOULA</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>PORTIAND</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>PORTLAND</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>PROVIDENCE</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>SALT LAKE CITY</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>SANFORD</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>SAVANNAH</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>SEDALIA</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>SPRINGFIELD</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>ST CHARLES</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>ST JOSEPH</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>ST LOUIS</loc>
+	<state>MO</state>
+</row>
+<row>
+	<loc>BILOXI</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>FOREST</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>GREEN BAY</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>GREENVILLE</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>GULFPORT</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>HATTIESBURG</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>HIBBING</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>HOLLY SPRINGS</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>JACKSON</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>LAUREL</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>LOCKPORT</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>MERIDIAN</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>NATCHEZ</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>PASCAGOULA</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>PORT GIBSON</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>VANCOUVER</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>VICKSBURG</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>WOODVILLE</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>YAZOO CITY</loc>
+	<state>MS</state>
+</row>
+<row>
+	<loc>ANACONDA</loc>
+	<state>MT</state>
+</row>
+<row>
+	<loc>BILLINGS</loc>
+	<state>MT</state>
+</row>
+<row>
+	<loc>BUTTE</loc>
+	<state>MT</state>
+</row>
+<row>
+	<loc>GLENDIVE</loc>
+	<state>MT</state>
+</row>
+<row>
+	<loc>GREAT FALLS</loc>
+	<state>MT</state>
+</row>
+<row>
+	<loc>GT FALLS</loc>
+	<state>MT</state>
+</row>
+<row>
+	<loc>HELENA</loc>
+	<state>MT</state>
+</row>
+<row>
+	<loc>MISSOULA</loc>
+	<state>MT</state>
+</row>
+<row>
+	<loc>OMAHA</loc>
+	<state>MT</state>
+</row>
+<row>
+	<loc>STEVENSVILLE</loc>
+	<state>MT</state>
+</row>
+<row>
+	<loc>ASHEVILLE</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>CHARLOTTE</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>DURHAM</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>GASTONIA</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>GRAND FORKS</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>GREENSBORO</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>HICKORY</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>HIGH POINT</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>RALEIGH</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>ROCKY MOUNT</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>SALISBURY</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>SPARTANBURG</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>SPRINGFIELD</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>WILLIAMSPORT</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>WILMINGTON</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>WINSTON-SALEM</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>WOINSTON</loc>
+	<state>NC</state>
+</row>
+<row>
+	<loc>BISMARCK</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>FARGO</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>FISHER</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>FORKS</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>GRAND FORKS</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>KENSAL</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>MASSILLON</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>MAYVILLE</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>MINOT</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>NEWARK</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>SANDUSKY</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>TOLEDO</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>WARREN</loc>
+	<state>ND</state>
+</row>
+<row>
+	<loc>BEATRICE</loc>
+	<state>NE</state>
+</row>
+<row>
+	<loc>CONCORD</loc>
+	<state>NE</state>
+</row>
+<row>
+	<loc>FREMONT</loc>
+	<state>NE</state>
+</row>
+<row>
+	<loc>GRAND ISLAND</loc>
+	<state>NE</state>
+</row>
+<row>
+	<loc>KEARNEY</loc>
+	<state>NE</state>
+</row>
+<row>
+	<loc>LINCOLN</loc>
+	<state>NE</state>
+</row>
+<row>
+	<loc>NEBRASKA CITY</loc>
+	<state>NE</state>
+</row>
+<row>
+	<loc>OMAHA</loc>
+	<state>NE</state>
+</row>
+<row>
+	<loc>SO OMAHA</loc>
+	<state>NE</state>
+</row>
+<row>
+	<loc>SOUTH OMAHA</loc>
+	<state>NE</state>
+</row>
+<row>
+	<loc>VIRGINIA CITY</loc>
+	<state>NE</state>
+</row>
+<row>
+	<loc>BERLIN</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>BLOOMFIELD</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>CLAREMONT</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>CONCORD</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>DOVER</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>FRANKLIN</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>JAMESTOWN</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>KEARNY</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>KEENE</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>MANCHESTER</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>NASHUA</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>NASSAU</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>NIAGARA FALLS</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>PITTSFIELD</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>PORTSMOUTH</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>ROCHESTER</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>SCHENECTADY</loc>
+	<state>NH</state>
+</row>
+<row>
+	<loc>ASBURY PARK</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>ATLANTIC CITY</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>BAYONNE</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>BELLEVILLE</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>BLOOMFIELD</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>CAMDEN</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>CARBONDALE</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>CLIFTON</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>CONCORD</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>DUNKIRK</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>EAST ORANGE</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>ELIZABETH</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>ELMIRA</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>ELWOOD</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>ENGLEWOOD</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>GARFIELD</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>GLOUCESTER</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>GLOUCESTER CITY</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>GREENFIELD</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>HACKENSACK</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>HARRISON</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>HOBOKEN</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>HYDE PARK</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>IRVINGTON</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>JERSEY CITY</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>KEARISON</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>KEARNY</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>KINGSTON</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>LONG BRANCH</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>LYNCHBURG</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>MANCHESTER</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>MILLVILLE</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>MONTCLAIR</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>MONTDAIR</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>MORRISTOWN</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>MOSCATINE IWA</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>MOUNT VERNON</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>NEW BRIGHTON</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>NEW BRUNSWICK</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>NEWARK</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>NEWBURGH</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>NORTH TONAWANDA</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>ORANGE</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>PASSABLE</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>PASSAIC</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>PATERSON</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>PAWTUCKET</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>PERTH AMBOY</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>PHILLIPSBURG</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>PITTSFIELD</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>PLAINFIELD</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>POTTSTOWN</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>POUGHKEEPSIE</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>RAHWAY</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>ROOSEVELT</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>SOMERVILLE</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>SUMMIT</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>TRENTON</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>UNION</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>WATERTOWN</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>WEST HOBOKEN</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>WEST NEW YORK</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>WEST ORANGE</loc>
+	<state>NJ</state>
+</row>
+<row>
+	<loc>ALBUQUERQUE</loc>
+	<state>NM</state>
+</row>
+<row>
+	<loc>LAS VEGAS</loc>
+	<state>NV</state>
+</row>
+<row>
+	<loc>RENO</loc>
+	<state>NV</state>
+</row>
+<row>
+	<loc>ROME</loc>
+	<state>NV</state>
+</row>
+<row>
+	<loc>VIRGINIA CITY</loc>
+	<state>NV</state>
+</row>
+<row>
+	<loc>ALBANY</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>AMSTERDAM</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>ATLANTIC CITY</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>AUBURN</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>AURORA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>BATAVIA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>BAYONNE</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>BEACON</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>BEAVER FALLS</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>BINGHAMTON</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>BROCKTON</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>BROOKLYN</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>BUFFALO</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>CAMDEN</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>COHOES</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>COLLEGE POINT</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>CORNING</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>CORTLAND</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>DUNKIRK</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>ELIZABETH</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>ELMIRA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>EVERETTMASS</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>FULTON</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>GENEVA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>GLENS FALLS</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>GLOVERSVILLE</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>HAMILTON</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>HERKIMER</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>HOBOKEN</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>HORNELL</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>HORNELLSVILLE</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>HUDSON</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>ITHACA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>JAMESTOWN</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>JERSEY CITY</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>JOHNSTOWN</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>KANSAS CITY</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>KINGSTON</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>LACKAWANNA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>LANSINGBURG</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>LANSINGBURGH</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>LITTLE FALLS</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>LOCKPORT</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>MIDDLETOWN</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>MONROE</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>MOUNT VERNON</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>NASHUA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>NEW BRIGHTON</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>NEW BRUNSWICK</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>NEW ROCHELLE</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>NEW YORK</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>NEWBURGH</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>NIAGARA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>NIAGARA FALLS</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>NORTH ADAMS</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>NORTH TOMWANDA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>NORTH TONAWANDA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>NORTHAMPTON</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>OGDENSBURG</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>OLEAN</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>ONEIDA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>ONEONTA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>ORANGE</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>OSSINING</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>OSWEGO</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>PEEKSKILL</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>PERTH AMBOY</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>PHILADELPHIA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>PLANIFIELD</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>PLATTSBURG</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>PORT CHESTER</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>PORT RICHMOND</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>POUGHKEEPSIE</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>ROCHESTER</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>ROME</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>RYE</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>SARATOGA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>SARATOGA SPRINGS</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>SCHENECTADY</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>SENECA FALLS</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>SING SING</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>STEELTON</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>SYRACUSE</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>TONAWANDA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>TROY</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>TROYARK</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>UTICA</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>WATERTOWN</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>WATERVLIET</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>WHITE PLAINS</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>WORCESTER</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>YONKERS</loc>
+	<state>NY</state>
+</row>
+<row>
+	<loc>AKRON</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>ALLIANCE</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>ALTON</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>ASHTABULA</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>BARBERTON</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>BELLAIRE</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>BELOIT</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>BUCYRUS</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>CAMBRIDGE</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>CAMDEN</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>CANTON</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>CHILLICOTHE</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>CINCINNATI</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>CLEVELAND</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>CLEVELAND HEIGHTS</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>COLUMBUS</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>COSHOCTON</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>COVINGTON</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>CUMBERLAND</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>CUYAHOGA FALLS</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>DAYTON</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>DECATUR</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>EAST CLEVELAND</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>EAST LIVERPOOL</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>EAST YOUNGSTOWN</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>ELYRIA</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>FINDLAY</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>FOSTORIA</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>FREMONT</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>GREENVILLE</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>HAMILTON</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>IRONTON</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>KENMORE</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>LAKEWOOD</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>LANCASTER</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>LEBANON</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>LIMA</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>LORAIN</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>MANSFIELD</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>MARIETTA</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>MARION</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>MARTINS FERRY</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>MASSILLON</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>MIDDLETOWN</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>MOBILE</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>MOUNT VERNON</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>MT VERNON</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>NEW PHILADELPHIA</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>NEWARK</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>NILES</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>NORWOOD</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>PIQUA</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>PLONA</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>PORTLAND</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>PORTSMOUTH</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>SALEM</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>SANDUSKY</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>SPRINGFIELD</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>STEUBENVILLE</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>STRYKER</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>TIFFIN</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>TOLEDO</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>TOPEKA</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>URBANA</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>WARREN</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>WAUSAU</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>WINSTON-SALEM N</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>YOUNGSTOWN</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>ZANESFIELD</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>ZANESVILLE</loc>
+	<state>OH</state>
+</row>
+<row>
+	<loc>CHICKASHA</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>DAYTON</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>ENID</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>GUTHRIE</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>MCALESTER</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>MUSKOGEE</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>NORFOLK</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>OKIAHOMA</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>OKLABOMA</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>OKLAHOMA CITY</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>OKLANHOMA</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>OKTAHOMA</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>PARKLAND</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>SHAWNEE</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>TULSA</loc>
+	<state>OK</state>
+</row>
+<row>
+	<loc>ASTORIA</loc>
+	<state>OR</state>
+</row>
+<row>
+	<loc>EUGENE</loc>
+	<state>OR</state>
+</row>
+<row>
+	<loc>MEDFORD</loc>
+	<state>OR</state>
+</row>
+<row>
+	<loc>PORTLAND</loc>
+	<state>OR</state>
+</row>
+<row>
+	<loc>SALEM</loc>
+	<state>OR</state>
+</row>
+<row>
+	<loc>ALLEGHENY</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>ALLEGHENY CITY</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>ALLENTOWN</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>ALTOONA</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>AMBRIDGE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>AUBURN</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>BEAVER FALLS</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>BERWICK</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>BETHLEHEM</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>BRADDOCK</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>BRADFORD</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>BRISTOL</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>BUTLER</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>CANONSBURG</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>CARBONDALE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>CARLISLE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>CARNEGIE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>CARRICK</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>CHAMBERSBURG</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>CHARLEROI</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>CHARLESTON</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>CHESTER</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>COATESVILLE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>COLUMBIA</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>CONNELLSVILLE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>DICKSON</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>DICKSON CITY</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>DIXON</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>DONORA</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>DUBOIS</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>DUNMORE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>DUQUESNE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>EASTON</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>ERIE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>FARGO N</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>FARRELL</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>GREENSBOROUGH</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>GREENSBURG</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>HARRISBURG</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>HAZLETON</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>HOMESTEAD</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>JEANNETTE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>JERSEY CITY</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>JOHNSTOWN</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>KNOXVILLE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>LANCASTER</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>LANCASTER CITY</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>LEBANON</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>LYNCHBURG</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>MAHANOY</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>MAHANOY CITY</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>MANCHESTER</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>MCKEES ROCKS</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>MCKEESPORT</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>MEADVILLE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>MONESSEN</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>MOUNT CARMEL</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>NANTICOKE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>NEW CASTLE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>NEW KENSINGTON</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>NEWCASTLE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>NEWPORT</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>NORRISTOWN</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>NORTH BRADDOCK</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>OIL CITY</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>OLD FORGE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>OLYPHANT</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>PHILADELPHIA</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>PHOENIXVILLE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>PITTSBURGH</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>PITTSFIELD</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>PITTSTON</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>PLYMOUTH</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>PORTAGE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>POTTSTO VA</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>POTTSTOWN</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>POTTSVILLE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>PUNXSUTAWNEY</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>READING</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>ROANOKE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>SALT LAKE CITY</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>SCRANTON</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>SHAMOKIN</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>SHARON</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>SHENANDOAH</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>SO BETHLEHEM</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>SOUTH BETHLEHEM</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>ST LOUIS</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>STEELTON</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>SUNBURY</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>SWISSVALE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>TAMAQUA</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>TITUSVILLE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>UNIONTOWN</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>WARREN</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>WASHINGTON</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>WEST CHESTER</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>WILKES-BARRE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>WILKINSBURG</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>WILLIAMINGSPORT</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>WILLIAMSPORT</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>WMIAMSPORT</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>WOODLAWN</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>YORK</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>YOUNGSTOWN</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>ZANESVILLE</loc>
+	<state>PA</state>
+</row>
+<row>
+	<loc>PONCE</loc>
+	<state>PR</state>
+</row>
+<row>
+	<loc>SAN JUAN</loc>
+	<state>PR</state>
+</row>
+<row>
+	<loc>BRISTOL</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>CENTRAL FALLS</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>CRANSTON</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>CROMPTON</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>CUMBERLAND</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>EAST PROVIDENCE</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>HOBOKEN</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>JERICHO</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>LINCOLN</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>NATICK</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>NEWPORT</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>PAWTUCKET</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>PROVIDENCE</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>RIVER POINT</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>ROCK ISLAND</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>ROCKFORD</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>SPRINGFIELD</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>WARREN</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>WARWICK</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>WEST WARWICK</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>WOONSOCKET</loc>
+	<state>RI</state>
+</row>
+<row>
+	<loc>CAMDEN</loc>
+	<state>SC</state>
+</row>
+<row>
+	<loc>CHARLESTON</loc>
+	<state>SC</state>
+</row>
+<row>
+	<loc>CHARLOTTE</loc>
+	<state>SC</state>
+</row>
+<row>
+	<loc>CLOVER</loc>
+	<state>SC</state>
+</row>
+<row>
+	<loc>COLUMBIA</loc>
+	<state>SC</state>
+</row>
+<row>
+	<loc>FLORENCE</loc>
+	<state>SC</state>
+</row>
+<row>
+	<loc>GEORGETOWN</loc>
+	<state>SC</state>
+</row>
+<row>
+	<loc>GREENVILLE</loc>
+	<state>SC</state>
+</row>
+<row>
+	<loc>SEVEN MILE</loc>
+	<state>SC</state>
+</row>
+<row>
+	<loc>SPARTANBURG</loc>
+	<state>SC</state>
+</row>
+<row>
+	<loc>ABERDEEN</loc>
+	<state>SD</state>
+</row>
+<row>
+	<loc>BEAVER FALLS</loc>
+	<state>SD</state>
+</row>
+<row>
+	<loc>FALLS</loc>
+	<state>SD</state>
+</row>
+<row>
+	<loc>NASHVILLE</loc>
+	<state>SD</state>
+</row>
+<row>
+	<loc>SIOUX FALLS</loc>
+	<state>SD</state>
+</row>
+<row>
+	<loc>SOIX FALLE</loc>
+	<state>SD</state>
+</row>
+<row>
+	<loc>CAMDEN</loc>
+	<state>TN</state>
+</row>
+<row>
+	<loc>CHATTANOOGA</loc>
+	<state>TN</state>
+</row>
+<row>
+	<loc>DOWELLTOWN</loc>
+	<state>TN</state>
+</row>
+<row>
+	<loc>GREENVILLE</loc>
+	<state>TN</state>
+</row>
+<row>
+	<loc>HOUSTON</loc>
+	<state>TN</state>
+</row>
+<row>
+	<loc>JOHNSON CITY</loc>
+	<state>TN</state>
+</row>
+<row>
+	<loc>KNOXVILLE</loc>
+	<state>TN</state>
+</row>
+<row>
+	<loc>MEMPHIS</loc>
+	<state>TN</state>
+</row>
+<row>
+	<loc>NASHVILLE</loc>
+	<state>TN</state>
+</row>
+<row>
+	<loc>ABILENE</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>ALINE</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>AMARILLO</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>AUSTIN</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>BEAUMONT</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>BOGGY FORK</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>BONHAM</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>BRENHAM</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>BROOKSHIRE</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>BROWNSVILLE</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>CADDO MILLS</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>CALDWELL</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>CARMINE</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>CHAPPEL HILL</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>COLMESNEIL</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>CORPUS CHRISTI</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>CORSICANA</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>DALLAS</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>DENISON</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>DIRECT</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>EL PASO</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>FARMERSVILLE</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>FORT SMITH</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>FORT WORTH</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>GAINESVILLE</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>GALVESTON</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>GARRETT</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>GONZALES</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>GONZALEZ</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>GRAND SALINE</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>GREENVILLE</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>HIDALGO</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>HILDALGO</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>HILLSBORO</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>HOUSTON</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>JOAQUIN</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>LAREDO</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>LEESBURG</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>MALAKOFF</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>MARSHALL</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>MEADOW</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>MERIDIAN</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>MILANO</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>MOUNT PLEASANT</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>PALESTINE</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>PARIS</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>PORT ARTHUR</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>PORT SULLIVAN</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>PRAIRIE DELL</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>ROCKDALE</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>SABINE PASS</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>SAN ANGELO</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>SAN ANTONIO</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>SEALEY</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>SILVER LAKE</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>ST JO</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>SUBLIME</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>TAYLOR</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>TEMPLE</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>TEXARKANA</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>TYLER</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>VILLAGE MILLS</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>WACO</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>WEIMER</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>WICHITA FALLS</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>WOLFE CITY</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>YOAKUM</loc>
+	<state>TX</state>
+</row>
+<row>
+	<loc>OGDEN</loc>
+	<state>UT</state>
+</row>
+<row>
+	<loc>PROVO</loc>
+	<state>UT</state>
+</row>
+<row>
+	<loc>RICHMOND</loc>
+	<state>UT</state>
+</row>
+<row>
+	<loc>RUTLAND</loc>
+	<state>UT</state>
+</row>
+<row>
+	<loc>SALT LAKE CITY</loc>
+	<state>UT</state>
+</row>
+<row>
+	<loc>SMITHFIELD</loc>
+	<state>UT</state>
+</row>
+<row>
+	<loc>ALEXANDRIA</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>BROOKNEAL</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>CHARLOTTESVILLE</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>DANVILLE</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>FAIRMONT</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>LYNCHBURG</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>MANCHESTER</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>NEWPORT NEWS</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>NORFOLK</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>PETERSBURG</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>PHILADELPHIA</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>POCAHONTAS</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>PORTSMOUTH</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>RICHMOND</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>ROANOKE</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>RUTLAND</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>SEATTLE</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>SPOKANE</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>STAUNTON</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>TACOMA</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>VICTORIA</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>WALLA WALLA</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>YAKIMA</loc>
+	<state>VA</state>
+</row>
+<row>
+	<loc>BARRE</loc>
+	<state>VT</state>
+</row>
+<row>
+	<loc>BENNINGTON</loc>
+	<state>VT</state>
+</row>
+<row>
+	<loc>BINGHAMPTON</loc>
+	<state>VT</state>
+</row>
+<row>
+	<loc>BURLINGTON</loc>
+	<state>VT</state>
+</row>
+<row>
+	<loc>DANVILLE</loc>
+	<state>VT</state>
+</row>
+<row>
+	<loc>MONTPELIER</loc>
+	<state>VT</state>
+</row>
+<row>
+	<loc>MOUNT HOLLY</loc>
+	<state>VT</state>
+</row>
+<row>
+	<loc>RUTLAND</loc>
+	<state>VT</state>
+</row>
+<row>
+	<loc>ST JOHNSBURY</loc>
+	<state>VT</state>
+</row>
+<row>
+	<loc>ABERDEEN</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>BELLINGHAM</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>DAYTON</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>EVERETT</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>HOQUIAM</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>NORTH YAKIMA</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>PORT TOWNSEND</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>SEATTLE</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>SPOKANE</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>SUMAS</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>TACOMA</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>VANCOUVER</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>WALLA WALLA</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>WEST CHESTER</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>WOODLAWN</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>YAKIMA</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>YORK</loc>
+	<state>WA</state>
+</row>
+<row>
+	<loc>APPLETON</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>ASHLAND</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>BELOIT</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>CHIPPEWA FALLS</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>EAU CLAIRE</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>FOND DU LAC</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>GREEN BAY</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>JANESVILLE</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>KENOSHA</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>LA CROSSE</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>MADISON</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>MANITOWOC</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>MARINETTE</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>MILWAUKEE</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>OSHKOSH</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>PORT RICHMOND</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>PORTAGE</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>RACINE</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>SHEBOYGAN</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>STEVENS POINT</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>SUPERIOR</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>WAUKESHA</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>WAUSAU</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>WEST ALLIS</loc>
+	<state>WI</state>
+</row>
+<row>
+	<loc>BLUEFIELD</loc>
+	<state>WV</state>
+</row>
+<row>
+	<loc>CHARLESTON</loc>
+	<state>WV</state>
+</row>
+<row>
+	<loc>CLARKSBURG</loc>
+	<state>WV</state>
+</row>
+<row>
+	<loc>FAIRMONT</loc>
+	<state>WV</state>
+</row>
+<row>
+	<loc>HUNTINGTON</loc>
+	<state>WV</state>
+</row>
+<row>
+	<loc>MARTINSBURG</loc>
+	<state>WV</state>
+</row>
+<row>
+	<loc>MORGANTOWN</loc>
+	<state>WV</state>
+</row>
+<row>
+	<loc>MOUN ISVIHE</loc>
+	<state>WV</state>
+</row>
+<row>
+	<loc>MOUNDSVILLE</loc>
+	<state>WV</state>
+</row>
+<row>
+	<loc>PARKERSBURG</loc>
+	<state>WV</state>
+</row>
+<row>
+	<loc>PETERSBURG</loc>
+	<state>WV</state>
+</row>
+<row>
+	<loc>WHEELING</loc>
+	<state>WV</state>
+</row>
+<row>
+	<loc>CASPER</loc>
+	<state>WY</state>
+</row>
+<row>
+	<loc>CHEYENNE</loc>
+	<state>WY</state>
+</row>
+<row>
+	<loc>ROCK SPRINGS</loc>
+	<state>WY</state>
+</row>
+</result>

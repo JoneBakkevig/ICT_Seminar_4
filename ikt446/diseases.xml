@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<count>50</count>
+<row>
+	<disease>ANTHRAX</disease>
+</row>
+<row>
+	<disease>BABESIOSIS</disease>
+</row>
+<row>
+	<disease>BOTULISM</disease>
+</row>
+<row>
+	<disease>BRUCELLOSIS [UNDULANT FEVER]</disease>
+</row>
+<row>
+	<disease>CHICKENPOX [VARICELLA]</disease>
+</row>
+<row>
+	<disease>CHLAMYDIA</disease>
+</row>
+<row>
+	<disease>CHOLERA</disease>
+</row>
+<row>
+	<disease>COCCIDIOIDOMYCOSIS</disease>
+</row>
+<row>
+	<disease>CRYPTOSPORIDIOSIS</disease>
+</row>
+<row>
+	<disease>DENGUE</disease>
+</row>
+<row>
+	<disease>DIPHTHERIA</disease>
+</row>
+<row>
+	<disease>DYSENTERY</disease>
+</row>
+<row>
+	<disease>EHRLICHIOSIS/ANAPLASMOSIS</disease>
+</row>
+<row>
+	<disease>ENCEPHALITIS</disease>
+</row>
+<row>
+	<disease>GIARDIASIS</disease>
+</row>
+<row>
+	<disease>GONORRHEA</disease>
+</row>
+<row>
+	<disease>HEPATITIS A</disease>
+</row>
+<row>
+	<disease>HEPATITIS B</disease>
+</row>
+<row>
+	<disease>INFLUENZA</disease>
+</row>
+<row>
+	<disease>LEGIONELLOSIS</disease>
+</row>
+<row>
+	<disease>LEPROSY</disease>
+</row>
+<row>
+	<disease>LYME DISEASE</disease>
+</row>
+<row>
+	<disease>MALARIA</disease>
+</row>
+<row>
+	<disease>MEASLES</disease>
+</row>
+<row>
+	<disease>MENINGITIS</disease>
+</row>
+<row>
+	<disease>MUMPS</disease>
+</row>
+<row>
+	<disease>PELLAGRA</disease>
+</row>
+<row>
+	<disease>PNEUMONIA</disease>
+</row>
+<row>
+	<disease>PNEUMONIA AND INFLUENZA</disease>
+</row>
+<row>
+	<disease>POLIOMYELITIS</disease>
+</row>
+<row>
+	<disease>PSITTACOSIS</disease>
+</row>
+<row>
+	<disease>RABIES IN ANIMALS</disease>
+</row>
+<row>
+	<disease>ROCKY MOUNTAIN SPOTTED FEVER</disease>
+</row>
+<row>
+	<disease>RUBELLA</disease>
+</row>
+<row>
+	<disease>SALMONELLOSIS</disease>
+</row>
+<row>
+	<disease>SCARLET FEVER</disease>
+</row>
+<row>
+	<disease>SHIGELLOSIS</disease>
+</row>
+<row>
+	<disease>SMALLPOX</disease>
+</row>
+<row>
+	<disease>STREPTOCOCCAL DISEASE, INVASIVE GROUP A</disease>
+</row>
+<row>
+	<disease>STREPTOCOCCAL SORE THROAT</disease>
+</row>
+<row>
+	<disease>TETANUS</disease>
+</row>
+<row>
+	<disease>TOXIC SHOCK SYNDROME</disease>
+</row>
+<row>
+	<disease>TRICHINIASIS</disease>
+</row>
+<row>
+	<disease>TUBERCULOSIS [PHTHISIS PULMONALIS]</disease>
+</row>
+<row>
+	<disease>TULAREMIA</disease>
+</row>
+<row>
+	<disease>TYPHOID FEVER [ENTERIC FEVER]</disease>
+</row>
+<row>
+	<disease>TYPHUS FEVER</disease>
+</row>
+<row>
+	<disease>VARIOLOID</disease>
+</row>
+<row>
+	<disease>WHOOPING COUGH [PERTUSSIS]</disease>
+</row>
+<row>
+	<disease>YELLOW FEVER</disease>
+</row>
+</result>
